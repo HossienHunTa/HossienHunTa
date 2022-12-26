@@ -4,7 +4,7 @@
 ### **<div align="center">a programmer and developer, a computer engineering student 👨‍🎓 majoring in software.</div>**  
   
 
-- 🔭 I’m currently working on [Smart Shopping System](https://github.com/HossienHunTa/HossienHunTa/blob/HunTa/README.md#:~:text=Smart%20Shopping%20System)  
+- 🔭 I’m currently working on [Smart farming](https://t.me/Hossienhunta)  
   
 
 - 🌱 I’m currently learning **Artificial intelligence(AI), Internet of things(IOT), Image Processing**  
