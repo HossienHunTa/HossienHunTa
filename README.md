@@ -19,6 +19,8 @@
 
 - 😈 [私の手で死ぬことは名誉です。 私は冗談を言っていた](https://www.youtube.com/watch?v=Fve_lHIPa-I)
   
+  
+[![user:20664157's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/20664157?theme=graywhite&website=true&location=true)]([https://github.com/johannchopin/stackoverflow-readme-profile](https://stackoverflow.com/users/20664157))
 
 <br/>  
 
