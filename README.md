@@ -1,10 +1,9 @@
 # **<div align="center">I'm Hossien Mohmmadian 😎</div>**  
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ### **<div align="center">a programmer and developer, a computer engineering student 👨‍🎓 majoring in software.</div>**  
   
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 - 🔭 I’m currently working on [Smart farming](https://t.me/Hossienhunta)  
   
