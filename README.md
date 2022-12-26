@@ -16,7 +16,7 @@
 - 📫 How to reach me **Hossien021.m@yahoo.com ,** **[HossienHunta](https://t.me/Hossienhunta)**  
   
 
-- 😈 私の手で死ぬことは名誉です。 私は冗談を言っていた   
+- 😈 [私の手で死ぬことは名誉です。 私は冗談を言っていた](https://www.youtube.com/watch?v=Fve_lHIPa-I)
   
 
 <br/>  
